@@ -1,0 +1,71 @@
+{
+  "brandName": "JOSEPAN",
+  "tagline": "Panadería · Pastelería · Cocina oculta",
+  "heroTitle": "JOSEPAN — Panadería y pastelería artesanal.",
+  "heroText": "Pan y dulces conscientes, horneados con dedicación.",
+  "logo": "https://micasabe.com/images/casabe-isologo.png",
+  "heroImage": "https://micasabe.com/images/panes-trenzados.webp",
+  "storyEyebrow": "Nuestra historia",
+  "storyTitle": "El bienestar se hornea en casa.",
+  "storyText1": "Una propuesta artesanal inspirada en técnicas tradicionales, ingredientes seleccionados y preparaciones cuidadas.",
+  "storyText2": "Trabajamos bajo pedido para entregar productos frescos y hechos con dedicación.",
+  "productsEyebrow": "Lo que horneamos",
+  "productsTitle": "Dos oficios, una misma pasión.",
+  "productsIntro": "Productos artesanales preparados con tiempo y dedicación.",
+  "bakeryTitle": "Panadería",
+  "bakeryItems": [
+    "Pan artesanal",
+    "Pan de avena",
+    "Pan de centeno",
+    "Focaccia",
+    "Brioche",
+    "Pan de naranja",
+    "Pan blandito",
+    "Pan de coco",
+    "Pan de yuca",
+    "Pan de queso"
+  ],
+  "pastryTitle": "Pastelería",
+  "pastryItems": [
+    "Croissants",
+    "Palitos de queso",
+    "Torta de zanahoria",
+    "Torta de chocolate",
+    "Torta red velvet",
+    "Mermeladas"
+  ],
+  "galleryTitle": "Un día en nuestra cocina.",
+  "galleryText": "Conoce algunos de nuestros productos.",
+  "gallery": [
+    {
+      "src": "https://micasabe.com/images/panes-trenzados.webp",
+      "alt": "Panes artesanales"
+    },
+    {
+      "src": "https://micasabe.com/images/pan-coco.webp",
+      "alt": "Pan de coco"
+    },
+    {
+      "src": "https://micasabe.com/images/roscones.webp",
+      "alt": "Roscones"
+    },
+    {
+      "src": "https://micasabe.com/images/pan-yuca.webp",
+      "alt": "Pan de yuca"
+    }
+  ],
+  "contactTitle": "Haz tu pedido.",
+  "location": "Colombia",
+  "whatsapp": "+57 318 607 2677",
+  "whatsappLink": "https://wa.me/573186072677",
+  "instagram": "@josepan",
+  "instagramLink": "https://www.instagram.com/",
+  "colors": {
+    "navy": "#3f475e",
+    "gold": "#f0c96a",
+    "cream": "#f7f0e4",
+    "paper": "#fffaf2",
+    "ink": "#2e2b29",
+    "sage": "#b8b8a4"
+  }
+}
